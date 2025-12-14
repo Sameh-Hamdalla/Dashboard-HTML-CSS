@@ -49,4 +49,4 @@ Ein Dashboard mit:
 
 1. Repository klonen:
 ```bash
-git clone https://github.com/USERNAME/REPO-NAME.git
+git clone https:github.com/Sameh-Hamdalla/Dashboard-HTML-CSS.git
